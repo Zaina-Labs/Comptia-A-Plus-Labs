@@ -8,7 +8,9 @@ Today I finished Professer Messer's video on MDM.
 
 ### Learned: How to manage 100 devices on MDM.
 
-### Key Concepts: Cloud sync, Data roaming, Remote wipe.
+### Key Concepts:
+
+* Cloud sync, Data roaming, Remote wipe.
 
 # Lab 1: MDM Configuration Lab
 
@@ -20,9 +22,9 @@ Today I learned about how a company controls 1000 of devices at the same time by
 * Remote commands: How to control the devices remotely and wipe the data.
 * BYOD and COPE: Learned the difference between Bring Your Own Device and Corporate owned,Personally Enabled.
 
-  ## Tool Used:Miradore
+## Tool Used:Miradore
 
-  ## Policy stimulation:
+## Policy stimulation:
   
 <img width="1900" height="1001" alt="Screenshot 2026-02-18 151716" src="https://github.com/user-attachments/assets/14c46077-7b0e-4ba5-8376-6f3e67ccbfc6" />
 <img width="954" height="479" alt="action log" src="https://github.com/user-attachments/assets/f517fd34-7a47-4dfb-b717-9336cfbc46ca" />
