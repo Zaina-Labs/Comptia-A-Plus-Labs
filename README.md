@@ -22,4 +22,9 @@ Today I learned about how a company controls 1000 of devices at the same time by
 
 * **Policy stimulation:**
 <img width="1900" height="1001" alt="Screenshot 2026-02-18 151716" src="https://github.com/user-attachments/assets/14c46077-7b0e-4ba5-8376-6f3e67ccbfc6" />
+<img width="954" height="479" alt="action log" src="https://github.com/user-attachments/assets/f517fd34-7a47-4dfb-b717-9336cfbc46ca" />
+<img width="953" height="472" alt="enroll device" src="https://github.com/user-attachments/assets/1d579969-fadf-41e5-a436-bad03f43c42f" />
+<img width="950" height="470" alt="infrastructure diagram" src="https://github.com/user-attachments/assets/93004d04-20e2-4635-9fe5-a4e763cba272" />
+
+
 
