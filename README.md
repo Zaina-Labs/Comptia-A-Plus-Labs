@@ -21,4 +21,5 @@ Today I learned about how a company controls 1000 of devices at the same time by
 * BYOD and COPE: Learned the difference between Bring Your Own Device and Corporate owned,Personally Enabled.
 
 * **Policy stimulation:**
+<img width="1900" height="1001" alt="Screenshot 2026-02-18 151716" src="https://github.com/user-attachments/assets/14c46077-7b0e-4ba5-8376-6f3e67ccbfc6" />
 
