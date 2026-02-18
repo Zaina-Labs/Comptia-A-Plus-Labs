@@ -26,5 +26,11 @@ Today I learned about how a company controls 1000 of devices at the same time by
 <img width="953" height="472" alt="enroll device" src="https://github.com/user-attachments/assets/1d579969-fadf-41e5-a436-bad03f43c42f" />
 <img width="950" height="470" alt="infrastructure diagram" src="https://github.com/user-attachments/assets/93004d04-20e2-4635-9fe5-a4e763cba272" />
 
+* **Security Importance:**
+
+* Remote wipe: it allows the administrator to wipe the sensitive data from the company device in case of device theft or lost.
+* Rooting or Jailbreaking: it is the situation when the user breaks the securrity policies implied by administrator which makes the vulnerabilties unpatched,allows malware to attack the system, fraud happenings, and data theft.
+* Containerization: simply putting the sensitive data of company in a separate container in the phone. Work files cannot escape this container and peronal data cannot peak through the container. Keeping the Data privacy.
+
 
 
