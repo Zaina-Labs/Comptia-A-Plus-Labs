@@ -88,6 +88,19 @@ Today I learned about how a company controls 1000 of devices at the same time by
     - Port `5228/5222`: Google/Messaging background services
 <img width="1000" height="515" alt="Screenshot 2026-02-24 172511" src="https://github.com/user-attachments/assets/40ea4780-7d2f-4ff7-a945-7f4462088d98" />
 
+ ## Commands Learned:
+
+  | Command | Purpose |
+  | :----- | :----- |
+  | `ipconfig/all` | Shows full IP details |
+  | `netstat -n` | Shows Active connections |
+  | `nslookup google` | Shows the address of Google |
+
+ ## Task List
+
+ - [X] Lab 1: IP Configuration
+ - [x] Lab 2: Active Connections
+ - [x] Concepts: IP,transport protocols,port numbers.
     ---------------       *LEARNING AND GROWING EVERYDAY*         --------------
 
  
