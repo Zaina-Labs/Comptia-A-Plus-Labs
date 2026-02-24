@@ -37,5 +37,59 @@ Today I learned about how a company controls 1000 of devices at the same time by
 * Rooting or Jailbreaking: it is the situation when the user breaks the securrity policies implied by administrator which makes the vulnerabilties unpatched,allows malware to attack the system, fraud happenings, and data theft.
 * Containerization: simply putting the sensitive data of company in a separate container in the phone. Work files cannot escape this container and peronal data cannot peak through the container. Keeping the Data privacy.
 
+                                 ---------------------------------------------------------------
+
+  # Lesson 2: Introduction to IP Internet Protocols
+
+  ## Key Concepts Learned:
+  
+  # Addresses
+  
+  * IP Address: Your device unique address for transfer of data.
+  * IPv4: Old system using 4 set of numbers, but it has ran out of the capacity of assigning address to devices.
+  * IPv6: New system that assigns IP addresses to devices to connect to internet, has vast capacity, address contains letters and numbers and uses colon to separate set of numbers.
+
+  # Transport Protocols
+
+  * TCP Transmission Control Protocol: Reliable, usually slower than UDP, acknowledgement from the server that the data has been received, used for emails, webs file transfer, resends the missed packet of data.
+  * UDP User Datagram Protocol: Unreliable, fast delivery speed, does not resend the missed data,  no acknowledgement, used for games, calls live streaming.
+
+  # Network Helper Protocols
+
+  * DHCP: Dynamic Host Configuration Protocol, used for assigning IP addresss to device by the router so they can connect to the internet.
+  * TFTP: Trivial File Transfer Protocol, used for transfering files, basic and simple method of delivery.
+  * HTTP: Hyper Text Transfer Protocol, basic way to visit websites.
+  * HTTPS: Similar way to view websites but in a secured way.
+  * SSH: Secure Shell used by IT perosns or admin to remote control a computer with maximum security.
+
+    # Port Numbers
+
+    * *Virtual doors* that tell your computer which service the data belongs.
+    * Non Ephemeral ports: Mostly permanent, well known ports usually ranging from 0 to 1023.
+    * Ephemeral ports: Assigned to clients as temporary ports, assigned in real time as the application is being used.
+    * TCP and UDP have different ports, means a service running on port 8 of TCP will be different from the service running on port 80 of UDP. This is known as **Multiplexing**.
+
+  ## Lab 2: IP configuration
+
+  * I used the 'ipconfig/all' command to see how my device gets its digital address.
+  **What I learned:**
+- **IPv4 Address:** My device's unique local address.
+- **DHCP Server:** Found the address of my router that assigned my IP.
+- **Default Gateway:** The "exit door" for my internet traffic.
+<img width="1297" height="788" alt="Screenshot 2026-02-24 171517" src="https://github.com/user-attachments/assets/2812bd34-b136-4a46-8926-42915d3d6b6e" />
+
+ ## Lab 3: Active Connections (TCP & ports)
+ 
+- I used the `netstat -n` command to see live connections from my computer.
+**What I observed:**
+- **Proto (TCP):** Saw how reliable connections are established.
+- **Local vs Foreign Address:** Understood how my computer talks to global servers.
+- **Common Ports:** - Port `443`: Secure web traffic (HTTPS).
+    - Port `5228/5222`: Google/Messaging background services
+<img width="1000" height="515" alt="Screenshot 2026-02-24 172511" src="https://github.com/user-attachments/assets/40ea4780-7d2f-4ff7-a945-7f4462088d98" />
+
+    ---------------       *LEARNING AND GROWING EVERYDAY*         --------------
+
+ 
 
 
