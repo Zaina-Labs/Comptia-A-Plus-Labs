@@ -101,6 +101,8 @@ Today I learned about how a company controls 1000 of devices at the same time by
  - [X] Lab 1: IP Configuration
  - [x] Lab 2: Active Connections
  - [x] Concepts: IP,transport protocols,port numbers.
+
+
     ---------------       *LEARNING AND GROWING EVERYDAY*         --------------
 
  
