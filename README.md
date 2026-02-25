@@ -111,20 +111,20 @@ Today, I learned about different well-known ports. To understand networking, it 
 
 
 | Common Ports | Number | Function |
-                               | :------- | :------ | :----- |
-                               | FTP | 20/21 | File transfer between computers |
-                               | HTTP | 80 | Unencrypted connection of web browser to web server |
-                               | HTTPS | 443 | Secured connection Encrypted |
-                               | SSH | 22 | Terminal connection for remote control with security |
-                               | Telnet | 23 | For controling other device but unencrypted |
-                               | DHCP | 67/68 | Assigning IP addresses to devices |
-                               | SMTP | 25 | For sending emails |
-                               | POP3 | 110 | For receiving emails |
-                               | IMAP | 143 | For receiving multiple emails |
-                               | DNS | 53 | Giving IP address to names |
-                               | SNMP | 161/162 | For checking the devices in network system |
-                               | LDAP | 389 | Query directories, logins |
-                               | RDP | 3389 | Remote access to other device's screen |
+| :------- | :------ | :----- |
+| FTP | 20/21 | File transfer between computers |
+| HTTP | 80 | Unencrypted connection of web browser to web server |
+| HTTPS | 443 | Secured connection Encrypted |
+| SSH | 22 | Terminal connection for remote control with security |
+| Telnet | 23 | For controling other device but unencrypted |
+| DHCP | 67/68 | Assigning IP addresses to devices |
+| SMTP | 25 | For sending emails |
+| POP3 | 110 | For receiving emails |
+| IMAP | 143 | For receiving multiple emails |
+| DNS | 53 | Giving IP address to names |
+| SNMP | 161/162 | For checking the devices in network system |
+| LDAP | 389 | Query directories, logins |
+| RDP | 3389 | Remote access to other device's screen |
 
   ## Lab 4:  Testing Port 80 HTTP in Packet Tracer
 
