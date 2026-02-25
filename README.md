@@ -12,7 +12,7 @@ Today I finished Professer Messer's video on MDM.
 
 * Cloud sync, Data roaming, Remote wipe.
 
-# Lab 1: MDM Configuration Lab
+# Lab 1: MDM Configuration Lab 🚀
 
 Today I learned about how a company controls 1000 of devices at the same time by taking Professor Messer's lecture and Miradore walkthrough.
 
