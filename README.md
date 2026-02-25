@@ -107,10 +107,10 @@ Today I learned about how a company controls 1000 of devices at the same time by
 
 ## Lesson 3: Common Ports
 
-*Today, I learned about different well-known ports. To understand networking, it is crucial to know the **virtual doors** the source and the destination is using to transfer data smoothly. Ports ensure that the data transfer between two devices happens with accuracy. The port specific for receiving and sending emails, web browsers, assigning IP addresses to devices and much more other functions.*
+Today, I learned about different well-known ports. To understand networking, it is crucial to know the **virtual doors** the source and the destination is using to transfer data smoothly. Ports ensure that the data transfer between two devices happens with accuracy. The port specific for receiving and sending emails, web browsers, assigning IP addresses to devices and much more other functions.
 
 
-                               | Common Ports | Number | Function |
+| Common Ports | Number | Function |
                                | :------- | :------ | :----- |
                                | FTP | 20/21 | File transfer between computers |
                                | HTTP | 80 | Unencrypted connection of web browser to web server |
@@ -141,7 +141,7 @@ Today I learned about how a company controls 1000 of devices at the same time by
     <img width="661" height="726" alt="Screenshot 2026-02-25 210521" src="https://github.com/user-attachments/assets/10b9c20f-2fe4-4887-b070-05214940865d" />
 
 
-                      --------------------- **Mindset of "I am stuck" to "I will figure it out."** ---------------------------
+     --------------------- **Mindset of "I am stuck" to "I will figure it out."** ---------------------------
 
 
 
