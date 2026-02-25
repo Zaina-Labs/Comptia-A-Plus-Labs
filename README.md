@@ -93,7 +93,7 @@ Today I learned about how a company controls 1000 of devices at the same time by
   | Command | Purpose |
   | :----- | :----- |
   | `ipconfig/all` | Shows full IP details |
-  | `netstat -n` | Shows Active connections |
+  | `netstat -n` | Shows Active connections|
   | `nslookup google` | Shows the address of Google |
 
  ## Task List
@@ -105,6 +105,43 @@ Today I learned about how a company controls 1000 of devices at the same time by
 
     ---------------       *LEARNING AND GROWING EVERYDAY*         --------------
 
- 
+## Lesson 3: Common Ports
+
+*Today, I learned about different well-known ports. To understand networking, it is crucial to know the **virtual doors** the source and the destination is using to transfer data smoothly. Ports ensure that the data transfer between two devices happens with accuracy. The port specific for receiving and sending emails, web browsers, assigning IP addresses to devices and much more other functions.*
+
+
+                               | Common Ports | Number | Function |
+                               | :------- | :------ | :----- |
+                               | FTP | 20/21 | File transfer between computers |
+                               | HTTP | 80 | Unencrypted connection of web browser to web server |
+                               | HTTPS | 443 | Secured connection Encrypted |
+                               | SSH | 22 | Terminal connection for remote control with security |
+                               | Telnet | 23 | For controling other device but unencrypted |
+                               | DHCP | 67/68 | Assigning IP addresses to devices |
+                               | SMTP | 25 | For sending emails |
+                               | POP3 | 110 | For receiving emails |
+                               | IMAP | 143 | For receiving multiple emails |
+                               | DNS | 53 | Giving IP address to names |
+                               | SNMP | 161/162 | For checking the devices in network system |
+                               | LDAP | 389 | Query directories, logins |
+                               | RDP | 3389 | Remote access to other device's screen |
+
+  ## Lab 4:  Testing Port 80 HTTP in Packet Tracer
+
+  I also did a lab to put my learning into action.
+  - I connected a PC  and a server with a Copper cross cable.
+  - I configured IP address to PC and server.
+  - Went to desktop>web browser in PC, entered the IP of server.
+  - BOOM!!! the server connected.
+  - Also used the simulation mode to see the network NETWORKING.
+
+
+    <img width="1918" height="1071" alt="Screenshot 2026-02-25 210435" src="https://github.com/user-attachments/assets/6e056a6c-217d-43f6-ae22-c0f043184169" />
+
+    <img width="661" height="726" alt="Screenshot 2026-02-25 210521" src="https://github.com/user-attachments/assets/10b9c20f-2fe4-4887-b070-05214940865d" />
+
+
+                      --------------------- **Mindset of "I am stuck" to "I will figure it out."** ---------------------------
+
 
 
