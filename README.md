@@ -143,5 +143,23 @@ Today, I learned about different well-known ports. To understand networking, it 
 
      --------------------- **Mindset of "I am stuck" to "I will figure it out."** ---------------------------
 
+ ## Lesson 4: Network devices 
+
+ Today, I learned about different network devices, their purpose and use. We use many devices for network communications such as routers, switch, firewall, SOHO(Small Office,Home Office) and sometimes devices with combined functionality.
+
+ | Network Devices🚀 | Intro + Function |
+ | :----- | :------ |
+ | Router | Allows data traffic between different networks based on IP address. |
+ | Switch | Allows data traffic based on MAC address |
+ | Access point | Bridge between wired connection and wireless connection. |
+ | Firewall | Security wall allowing or disallowing data traffic based on IP address, port numbers or protocols. |
+ | Power Over Ethernet POE | provides network connection and power to the device with one single cable. |
+ | Hub | Multi-port repeater, copies traffic between port, less efficient. |
+ | Cable Modem | Single wire multiple transmission, uses Coaxial cable, DOCSIS. | 
+ | DSL Modem | Digital Subscriber Line, uses telephone lines for communication. |
+ | ONT | Optical Network Terminal, converts light signals from fibre optic to electric signal for devices. |
+ | NIC | Network Interface Card allows connection of computer to network by converting digital signals into radio or light signals.|
+
+ <p align="center"> TO BE CONTINUED.........🔜 </p>
 
 
