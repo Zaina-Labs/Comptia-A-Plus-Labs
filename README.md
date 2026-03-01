@@ -26,7 +26,7 @@ Today I learned about how a company controls 1000 of devices at the same time by
 
 ## Policy stimulation:
   
-<p align="center " <img width="50%" height="1001" alt="Screenshot 2026-02-18 151716" src="https://github.com/user-attachments/assets/14c46077-7b0e-4ba5-8376-6f3e67ccbfc6" />
+<p align="center " ><img width="50%" height="1001" alt="Screenshot 2026-02-18 151716" src="https://github.com/user-attachments/assets/14c46077-7b0e-4ba5-8376-6f3e67ccbfc6" />
 <img width="50%" height="479" alt="action log" src="https://github.com/user-attachments/assets/f517fd34-7a47-4dfb-b717-9336cfbc46ca" />
 <img width="50%" height="472" alt="enroll device" src="https://github.com/user-attachments/assets/1d579969-fadf-41e5-a436-bad03f43c42f" />
 <img width="50%" height="470" alt="infrastructure diagram" src="https://github.com/user-attachments/assets/93004d04-20e2-4635-9fe5-a4e763cba272" /> </p>
@@ -76,7 +76,7 @@ Today I learned about how a company controls 1000 of devices at the same time by
 - **IPv4 Address:** My device's unique local address.
 - **DHCP Server:** Found the address of my router that assigned my IP.
 - **Default Gateway:** The "exit door" for my internet traffic.
-<p align='center' <img width="50%" height="788" alt="Screenshot 2026-02-24 171517" src="https://github.com/user-attachments/assets/2812bd34-b136-4a46-8926-42915d3d6b6e" /></p>
+<p align="center"> <img width="50%" height="788" alt="Screenshot 2026-02-24 171517" src="https://github.com/user-attachments/assets/2812bd34-b136-4a46-8926-42915d3d6b6e" /></p>
 
  ## Lab 3: Active Connections (TCP & ports)
  
@@ -86,7 +86,7 @@ Today I learned about how a company controls 1000 of devices at the same time by
 - **Local vs Foreign Address:** Understood how my computer talks to global servers.
 - **Common Ports:** - Port `443`: Secure web traffic (HTTPS).
     - Port `5228/5222`: Google/Messaging background services
-<p align='center' <img width="50%" height="515" alt="Screenshot 2026-02-24 172511" src="https://github.com/user-attachments/assets/40ea4780-7d2f-4ff7-a945-7f4462088d98" /></p>
+<p align="center"> <img width="50%" height="515" alt="Screenshot 2026-02-24 172511" src="https://github.com/user-attachments/assets/40ea4780-7d2f-4ff7-a945-7f4462088d98" /></p>
 
  ## Commands Learned:
 
@@ -136,9 +136,9 @@ Today, I learned about different well-known ports. To understand networking, it 
   - Also used the simulation mode to see the network NETWORKING.
 
 
-   <p align='center' <img width="50%" height="1071" alt="Screenshot 2026-02-25 210435" src="https://github.com/user-attachments/assets/6e056a6c-217d-43f6-ae22-c0f043184169" /></p>
+   <p align="center"> <img width="50%" height="1071" alt="Screenshot 2026-02-25 210435" src="https://github.com/user-attachments/assets/6e056a6c-217d-43f6-ae22-c0f043184169" /></p>
 
-   <p align='center'<img width="50%" height="726" alt="Screenshot 2026-02-25 210521" src="https://github.com/user-attachments/assets/10b9c20f-2fe4-4887-b070-05214940865d" /> </p>
+   <p align="center"> <img width="50%" height="726" alt="Screenshot 2026-02-25 210521" src="https://github.com/user-attachments/assets/10b9c20f-2fe4-4887-b070-05214940865d" /> </p>
 
 
    --------------------- **Mindset of "I am stuck" to "I will figure it out."** ---------------------------
