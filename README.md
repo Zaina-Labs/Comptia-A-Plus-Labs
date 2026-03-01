@@ -76,7 +76,7 @@ Today I learned about how a company controls 1000 of devices at the same time by
 - **IPv4 Address:** My device's unique local address.
 - **DHCP Server:** Found the address of my router that assigned my IP.
 - **Default Gateway:** The "exit door" for my internet traffic.
-<img width="1297" height="788" alt="Screenshot 2026-02-24 171517" src="https://github.com/user-attachments/assets/2812bd34-b136-4a46-8926-42915d3d6b6e" />
+<p align='center' <img width="50%" height="788" alt="Screenshot 2026-02-24 171517" src="https://github.com/user-attachments/assets/2812bd34-b136-4a46-8926-42915d3d6b6e" /></p>
 
  ## Lab 3: Active Connections (TCP & ports)
  
@@ -86,7 +86,7 @@ Today I learned about how a company controls 1000 of devices at the same time by
 - **Local vs Foreign Address:** Understood how my computer talks to global servers.
 - **Common Ports:** - Port `443`: Secure web traffic (HTTPS).
     - Port `5228/5222`: Google/Messaging background services
-<img width="1000" height="515" alt="Screenshot 2026-02-24 172511" src="https://github.com/user-attachments/assets/40ea4780-7d2f-4ff7-a945-7f4462088d98" />
+<p align='center' <img width="50%" height="515" alt="Screenshot 2026-02-24 172511" src="https://github.com/user-attachments/assets/40ea4780-7d2f-4ff7-a945-7f4462088d98" /></p>
 
  ## Commands Learned:
 
@@ -136,12 +136,12 @@ Today, I learned about different well-known ports. To understand networking, it 
   - Also used the simulation mode to see the network NETWORKING.
 
 
-    <img width="1918" height="1071" alt="Screenshot 2026-02-25 210435" src="https://github.com/user-attachments/assets/6e056a6c-217d-43f6-ae22-c0f043184169" />
+   <p align='center' <img width="50%" height="1071" alt="Screenshot 2026-02-25 210435" src="https://github.com/user-attachments/assets/6e056a6c-217d-43f6-ae22-c0f043184169" /></p>
 
-    <img width="661" height="726" alt="Screenshot 2026-02-25 210521" src="https://github.com/user-attachments/assets/10b9c20f-2fe4-4887-b070-05214940865d" />
+   <p align='center'<img width="50%" height="726" alt="Screenshot 2026-02-25 210521" src="https://github.com/user-attachments/assets/10b9c20f-2fe4-4887-b070-05214940865d" /> </p>
 
 
-     --------------------- **Mindset of "I am stuck" to "I will figure it out."** ---------------------------
+   --------------------- **Mindset of "I am stuck" to "I will figure it out."** ---------------------------
 
  ## Lesson 4: Network devices 
 
