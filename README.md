@@ -140,8 +140,8 @@ Today, I learned about different well-known ports. To understand networking, it 
 
    <p align="center"> <img width="50%" height="726" alt="Screenshot 2026-02-25 210521" src="https://github.com/user-attachments/assets/10b9c20f-2fe4-4887-b070-05214940865d" /> </p>
 
-
-   --------------------- **Mindset of "I am stuck" to "I will figure it out."** ---------------------------
+ 
+<p align="center">  **Mindset🧠 of "I am stuck" to "I will figure it out."⚡** </p>
 
  ## Lesson 4: Network devices 
 
