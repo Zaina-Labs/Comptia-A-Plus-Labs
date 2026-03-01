@@ -2,7 +2,7 @@
 Practical labs and notes for my IT journey. Training to become a Cyber Professionalist.
 # My-IT-Journey
 
-## Lesson 1: MDM and Mobile devices
+## Lesson 1: MDM and Mobile devices 💻
 
 Today I finished Professer Messer's video on MDM.
 
@@ -24,14 +24,14 @@ Today I learned about how a company controls 1000 of devices at the same time by
 
 ## Tool Used:Miradore
 
-## Policy stimulation:
+## Policy stimulation: 🛡️
   
 <p align="center " ><img width="50%" height="1001" alt="Screenshot 2026-02-18 151716" src="https://github.com/user-attachments/assets/14c46077-7b0e-4ba5-8376-6f3e67ccbfc6" />
 <img width="50%" height="479" alt="action log" src="https://github.com/user-attachments/assets/f517fd34-7a47-4dfb-b717-9336cfbc46ca" />
 <img width="50%" height="472" alt="enroll device" src="https://github.com/user-attachments/assets/1d579969-fadf-41e5-a436-bad03f43c42f" />
 <img width="50%" height="470" alt="infrastructure diagram" src="https://github.com/user-attachments/assets/93004d04-20e2-4635-9fe5-a4e763cba272" /> </p>
 
-## Security Importance:
+## Security Importance: 🔥
 
 * Remote wipe: it allows the administrator to wipe the sensitive data from the company device in case of device theft or lost.
 * Rooting or Jailbreaking: it is the situation when the user breaks the securrity policies implied by administrator which makes the vulnerabilties unpatched,allows malware to attack the system, fraud happenings, and data theft.
@@ -39,22 +39,22 @@ Today I learned about how a company controls 1000 of devices at the same time by
 
                                  ---------------------------------------------------------------
 
-  # Lesson 2: Introduction to IP Internet Protocols
+  # Lesson 2: Introduction to IP Internet Protocols 🕵️
 
   ## Key Concepts Learned:
   
-  # Addresses
+  # Addresses 📫
   
   * IP Address: Your device unique address for transfer of data.
   * IPv4: Old system using 4 set of numbers, but it has ran out of the capacity of assigning address to devices.
   * IPv6: New system that assigns IP addresses to devices to connect to internet, has vast capacity, address contains letters and numbers and uses colon to separate set of numbers.
 
-  # Transport Protocols
+  # Transport Protocols 🛻
 
   * TCP Transmission Control Protocol: Reliable, usually slower than UDP, acknowledgement from the server that the data has been received, used for emails, webs file transfer, resends the missed packet of data.
   * UDP User Datagram Protocol: Unreliable, fast delivery speed, does not resend the missed data,  no acknowledgement, used for games, calls live streaming.
 
-  # Network Helper Protocols
+  # Network Helper Protocols ⚒️
 
   * DHCP: Dynamic Host Configuration Protocol, used for assigning IP addresss to device by the router so they can connect to the internet.
   * TFTP: Trivial File Transfer Protocol, used for transfering files, basic and simple method of delivery.
@@ -62,14 +62,14 @@ Today I learned about how a company controls 1000 of devices at the same time by
   * HTTPS: Similar way to view websites but in a secured way.
   * SSH: Secure Shell used by IT perosns or admin to remote control a computer with maximum security.
 
-    # Port Numbers
+    # Port Numbers 💎
 
     * *Virtual doors* that tell your computer which service the data belongs.
     * Non Ephemeral ports: Mostly permanent, well known ports usually ranging from 0 to 1023.
     * Ephemeral ports: Assigned to clients as temporary ports, assigned in real time as the application is being used.
     * TCP and UDP have different ports, means a service running on port 8 of TCP will be different from the service running on port 80 of UDP. This is known as **Multiplexing**.
 
-  ## Lab 2: IP configuration
+  ## Lab 2: IP configuration 🔎
 
   * I used the 'ipconfig/all' command to see how my device gets its digital address.
   **What I learned:**
@@ -78,7 +78,7 @@ Today I learned about how a company controls 1000 of devices at the same time by
 - **Default Gateway:** The "exit door" for my internet traffic.
 <p align="center"> <img width="50%" height="788" alt="Screenshot 2026-02-24 171517" src="https://github.com/user-attachments/assets/2812bd34-b136-4a46-8926-42915d3d6b6e" /></p>
 
- ## Lab 3: Active Connections (TCP & ports)
+ ## Lab 3: Active Connections (TCP & ports) 🚧
  
 - I used the `netstat -n` command to see live connections from my computer.
 **What I observed:**
@@ -96,7 +96,7 @@ Today I learned about how a company controls 1000 of devices at the same time by
   | `netstat -n` | Shows Active connections|
   | `nslookup google` | Shows the address of Google |
 
- ## Task List
+ ## Task List ☑️
 
  - [X] Lab 1: IP Configuration
  - [x] Lab 2: Active Connections
@@ -126,7 +126,7 @@ Today, I learned about different well-known ports. To understand networking, it 
 | LDAP | 389 | Query directories, logins |
 | RDP | 3389 | Remote access to other device's screen |
 
-  ## Lab 4:  Testing Port 80 HTTP in Packet Tracer
+  ## Lab 4:  Testing Port 80 HTTP in Packet Tracer 🧪
 
   I also did a lab to put my learning into action.
   - I connected a PC  and a server with a Copper cross cable.
@@ -143,7 +143,7 @@ Today, I learned about different well-known ports. To understand networking, it 
  
 <p align="center"> Mindset🧠 of "I am stuck" to "I will figure it out⚡." </p>
 
- ## Lesson 4: Network devices 
+ ## Lesson 4: Network devices 🔌
 
  Today, I learned about different network devices, their purpose and use. We use many devices for network communications such as routers, switch, firewall, SOHO(Small Office,Home Office) and sometimes devices with combined functionality.
 
